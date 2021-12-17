@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Слаймы</title>
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="img/favicon/favicon.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="HandheldFriendly" content="true">
+	<link rel="stylesheet" media="screen" href="css/style.css">
+	<link rel="stylesheet" media="screen" href="css/quick.css">
+	<link rel="stylesheet" media="screen" href="css/shkoda.css">
+	<link rel="stylesheet" media="screen" href="css/nav.css">
+	<link rel="stylesheet" media="screen" href="css/form.css">
+	<link rel="stylesheet" media="screen" href="css/fonts.css">
+	<link rel="stylesheet" media="screen" href="css/responsive.css">
+	<link rel="stylesheet" media="screen" href="css/font-awesome.css">
+	<link rel="stylesheet" media="screen" href="css/karusel-logos.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+</head>
+<body>
+    <header class="sh-container bg-blue">
+        <div class="sh-wrapper w988 pt20 pb20">
+            <div class="sh-col-l w340 pt10">					
+                <a class="logo" href="/"></a>
+                <a class="helvetica-b20 f-left" href="/">ПЛАНЕТА ЛИЗУНОВ</a><br>
+                <a class="helvetica-m12 f-left pt5" href="/">продажа оптом и в розницу</a>
+            </div>
+            <div class="sh-col-l w260">												
+                <a class="helvetica-b30 f-left pt20 pl40" href="tel:+79044037713"><i class="fa fa-phone"></i>+7 (904) 403-77-13</a>					
+            </div>
+        <nav>
+            <a href="#" class="menu-trigger"><i class="fa fa-bars fa-lg "></i></a>
+            <ul id="menu">						
+                <li class="first "><a class="active" href="/">Каталог</a></li>
+                <li><a href="articles.html">Статьи</a></li>													
+                <li class="last"><a href="contacts.html">Контакты</a></li>
+            </ul>
+    </nav>
+    </div>
+    </header>
+    <section class="pre-content sh-container">
+        <h1 class="helvetica-m18">все виды лизунов, слаймов и пластичных масс</h1>
+    </section>
+    <section class="sh-container"> 
+        <div class="sh-wrapper w989">
+            <div class="sh-col-l w298 catalog mr45">
+                <img src="img/catalog-01.png">
+                <h3 class="helvetica-l17 pt10">Лизун <span>в ведре 1л</span></h3>
+                <h3 class="helvetica-l18">Цена: <span>50р/ведро</span></h3>
+                <a class="btn-catalog" href="">Подробнее</a>
+            </div>
+            <div class="sh-col-l w298 catalog mr45">
+                <img src="img/catalog-02.png">
+                <h3 class="helvetica-l17 pt10">Лизун <span>в ведре 1л</span></h3>
+                <h3 class="helvetica-l18">Цена: <span>50р/ведро</span></h3>
+                <a class="btn-catalog" href="">Подробнее</a>
+            </div>
+            <div class="sh-col-l w298 catalog">
+                <img src="img/catalog-03.png">
+                <h3 class="helvetica-l17 pt10">Лизун <span>в ведре 1л</span></h3>
+                <h3 class="helvetica-l18">Цена: <span>50р/ведро</span></h3>
+                <a class="btn-catalog" href="">Подробнее</a>
+            </div>
+        </div>
+        <div class="sh-wrapper mt60 w989">
+            <div class="sh-col-l w298 catalog mr45">
+                <img src="img/catalog-04.png">
+                <h3 class="helvetica-l17 pt10">Лизун <span>в ведре 1л</span></h3>
+                <h3 class="helvetica-l18">Цена: <span>50р/ведро</span></h3>
+                <a class="btn-catalog" href="">Подробнее</a>
+            </div>
+            <div class="sh-col-l w298 catalog mr45">
+                <img src="img/catalog-05.png">
+                <h3 class="helvetica-l17 pt10">Лизун <span>в ведре 1л</span></h3>
+                <h3 class="helvetica-l18">Цена: <span>50р/ведро</span></h3>
+                <a class="btn-catalog" href="">Подробнее</a>
+            </div>
+            <div class="sh-col-l w298 catalog">
+                <img src="img/catalog-06.png">
+                <h3 class="helvetica-l17 pt10">Лизун <span>в ведре 1л</span></h3>
+                <h3 class="helvetica-l18">Цена: <span>50р/ведро</span></h3>
+                <a class="btn-catalog" href="">Подробнее</a>
+            </div>
+        </div>
+    </section>
+    <section class="sh-container">
+        <div class="sh-wrapper w989">
+        <h2 class="helvetica-b30 pt30 pb30">видеообзоры</h2>
+        <hr class="sep mb40">
+        <div class="sh-col-l w480 mr20 border5 ">
+            <div class="this_video1">
+                <img class="start_this_video1" src="img/poster-01.png" alt="" />														
+            </div>				
+            <p class="helvetica-l17 pt10 pb10">Лизуны от интернет-магазина "Планета лизунов"</p>														
+        </div>
+        <div class="sh-col-l w480 border5 ">
+            <div class="this_video2">
+                <img class="start_this_video2" src="img/poster-02.png" alt="" />														
+            </div>				
+            <p class="helvetica-l17 pt10 pb10">Станьте партнером и зарабатывайте с нами!</p>														
+        </div>
+    </div>
+    </section>
+    <section class="sh-container">
+        <div class="sh-wrapper w989">
+            <h2 class="helvetica-b33 pt20 pb30">Игрушки антистресс в интернет-магазине «Планета лизунов»</h2>
+            <hr class="sep mb40">
+            <div class="imgtexts  mt30">
+                <a href="igrushki_antistress_v_internet-magazine_planeta_lizunov.html" class=""><img src="img/home-img-01.png" alt="Лизуны, слаймы" class="picture pb20"></a>										
+                <p class="helvetica-l16 mb30">Интернет-магазин <span>«Планета Лизунов»</span> предлагает безопасные <a class="link" href="igrushki_antistress_v_internet-magazine_planeta_lizunov.html">антистресс-игрушки</a>
+                для детей, подростков и взрослых. Слаймы, хендгамы, силиконовый пластилин разных расцветок и свойств 
+                в широком ассортименте. У нас их можно купить как небольшим оптом, так и в розницу. Мы предлагаем 
+                игрушки для ребят самых разных возрастов.<br><br>
+
+                Вы можете сделать оригинальный подарок для целой компании малышей, купив несколько стандартных слаймов
+                , помещенных в небольшое ведерко. Демократичные расценки вас приятно удивят. Цена, установленная производителем
+                , никак не скажется на вашем бюджете.<br><br>
+
+                Покупайте на сайте <span>«Планета Лизунов»!</span> Зачем платить больше? В нашем интернет-магазине вы найдете 
+                множество разнообразных по цвету и физическим свойствам уникальных удивительных игрушек.</p>
+                
+                <a href="igrushki_antistress_v_internet-magazine_planeta_lizunov.html" class="helvetica-l16-link">Подробнее<img class="pl10" src="img/arr-more.png"></a>
+            </div>
+        </div>
+    </section>
+    <section class="sh-container pb60">
+        <div class="sh-wrapper w989">
+            <h2 class="helvetica-b30 pb30">специальные предложения</h2>
+            <hr class="sep">
+                <ul id="flexiselDemo4">
+                        <li><img src="img/01.png" alt="Лизун в ведре"/><p class="helvetica-l17">Лизун <span>в ведре 1л</span><br><span class="red">Цена: 50р/ведро</span></p><br>
+                        <a class="btn-akcia" href="vedro1litr.html">Подробнее</a>
+                        </li>
+                        <li><img src="img/02.png" alt="Лизун в ведре"/><p class="helvetica-l17">Лизун <span>в ведре 2л</span><br><span class="red">Цена: 100р/ведро</span></p><br>					
+                        <a class="btn-akcia" href="vedro2litr.html">Подробнее</a>
+                        </li>
+                        <li><img src="img/03.png" alt="Лизун в ведре"/><p class="helvetica-l17">Лизун <span>в ведре 3.5л</span><br><span class="red">Цена: 160р/ведро</span></p><br>						
+                        <a class="btn-akcia" href="vedro3litr.html">Подробнее</a>							
+                        </li>
+                        <li><img src="img/04.png" alt="Лизун в ведре"/><p class="helvetica-l17">Лизун <span>в ведре 5.5л</span><br><span class="red">Цена: 240р/ведро</span></p><br>						
+                        <a class="btn-akcia" href="vedro5litr.html">Подробнее</a>
+                        </li>                                                 
+                        <li><img src="img/05.png" alt="Лизун в ведре"/><p class="helvetica-l17">Лизун <span>в соуснице</span><br><span class="red">Цена: 8р/шт</span></p><br>						
+                        <a class="btn-akcia" href="soys.html">Подробнее</a>
+                        </li>                                                 
+                        
+                        <li><img src="img/06.png" alt="Лизун в ведре"/><p class="helvetica-l17">Лизун <span>в вашу тару</span><br><span class="red">Цена: 40р/кг</span></p><br>							
+                        <a class="btn-akcia" href="podzakaz.html">Подробнее</a>
+                        </li> 							
+                </ul> 
+        </div>
+    </section>
+
+    <footer class="sh-container bg-77daff pt70 pb70">
+        <div class="sh-wrapper w989">
+            <div class="sh-wrap">
+                <div class="sh-col-l w480 mr10">
+                    <div class="f-logo br1">
+                        <a href="/"><img class="f-right t-right" src="img/logo-footer.png" alt="Slimes"></a><br>
+                        <p class="helvetica-m12 pt20">lickers © 2018</p><br>														
+                    </div>
+                </div>
+                <div class="sh-col-r w480">	
+                    <div class="f-contacts">
+                        <p class="helvetica-m12 f-left t-left"><i class="fa fa-phone"></i>+7 (904) 403-77-13</p><br>														
+                        <p class="helvetica-m12 f-left t-left"><i class="fa fa-envelope"></i>lickers@inbox.ru</p><br>														
+                        <p class="helvetica-m12 f-left t-left"><i class="fa  fa-clock-o"></i>с 9:00 до 18:00</p><br>														
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <a href="#" class="scrollup">Наверх</a><!-- back to top -->
+				
+		<script src="js/backtotop.js"></script><!-- back to top -->				
+		<script src="js/nav.js"></script><!-- menu -->
+		<script src="js/viewportchecker.js"></script>
+
+        <script>
+			$('.start_this_video1').click(function(){
+				$('.this_video1').html('<iframe width="480" height="270" src="https://www.youtube.com/embed/FFzvvOKGAmM" frameborder="0" allowfullscreen></iframe>');				
+			});
+			$('.start_this_video2').click(function(){
+				$('.this_video2').html('<iframe width="480" height="270" src="https://www.youtube.com/embed/gWYJK2WmYCg" frameborder="0" allowfullscreen></iframe>');
+			});
+			
+        </script>
+        
+    <script src="js/jquery.flexisel.js"></script>
+    <script> <!-- slider logos -->
+        $(window).load(function() {					
+                $("#flexiselDemo4").flexisel({
+                        visibleItems: 5,
+                        itemsToScroll: 1,         
+                        autoPlay: {
+                                enable: true,
+                                interval: 2000,
+                                pauseOnHover: true
+                        }     
+                });					
+        });
+        </script>	
+
+</body>
+</html>
